@@ -1,4 +1,4 @@
-# Optimal Shop Location
+## Optimal Shop Location
 
 Some time ago, we went shopping. After discussing with a furniture and decor shop owner their reason for closing their shop and putting their 
 remaining inventory on sale, we found that the shop owner believed they'd not picked the best or most optimal location for their shop. 
@@ -41,12 +41,13 @@ At minimum, we would need retailer and consumer data, as well as some location d
 1. Kaggle Consumer Behavior and Shopping Habits Dataset: https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset
 2. Kaggle Retail Data Analytics: https://www.kaggle.com/datasets/manjeetsingh/retaildataset
 3. Foursquare Open Source Places: A new foundational dataset for the geospatial community: https://location.foursquare.com/resources/blog/products/foursquare-open-source-places-a-new-foundational-dataset-for-the-geospatial-community/
-4. Data.gov Grocery Store Locations (Washington, DC) : https://catalog.data.gov/dataset/grocery-store-locations
-5. Data.gov Warehouse and Retail Sales: https://catalog.data.gov/dataset/warehouse-and-retail-sales
-6. Data.gov Quarterly Retail Sales Tax Data by County and City (Iowa): https://catalog.data.gov/dataset/quarterly-retail-sales-tax-data-by-county-and-city
-7. AWS Marketplace Places Data for Retail, Location & Marketing - Free Sample: https://aws.amazon.com/marketplace/pp/prodview-uheekokilsn5k#offers
-8. Consumer Behavior and Shopping Habits Dataset: https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset
-9. AWS Retail, Location & Marketing Data: https://aws.amazon.com/marketplace/search/results?category=2d1c8868-2642-4741-af5d-9ced77da7024&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&filters=FULFILLMENT_OPTION_TYPE
-10. Data.gov Retail Food Stores: https://catalog.data.gov/dataset/retail-food-stores
+4. Data.gov Warehouse and Retail Sales: https://catalog.data.gov/dataset/warehouse-and-retail-sales
+5. Data.gov Quarterly Retail Sales Tax Data by County and City (Iowa): https://catalog.data.gov/dataset/quarterly-retail-sales-tax-data-by-county-and-city
+6. AWS Marketplace Places Data for Retail, Location & Marketing - Free Sample: https://aws.amazon.com/marketplace/pp/prodview-uheekokilsn5k#offers
+7. Consumer Behavior and Shopping Habits Dataset: https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset
+8. AWS Retail, Location & Marketing Data: https://aws.amazon.com/marketplace/search/results?category=2d1c8868-2642-4741-af5d-9ced77da7024&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&filters=FULFILLMENT_OPTION_TYPE
+9. Data.gov Retail Food Stores: https://catalog.data.gov/dataset/retail-food-stores
+
+# Modeling
 
 
