@@ -52,6 +52,7 @@ At minimum, we would need retailer and consumer data, as well as some location d
 
 The essential initial methodology is to look at this as a regression problem where we have the dependent variable as 
 as the optimal location coordinates (GPS, Geolocation) and the explanatory or control variables include relevant 
-radius demographics, income levels of potential customers, competitive retailer factors, expected revenue goal, etc
+radius demographics, income levels of potential customers, competitive retailer factors, target or expected revenue, 
+location amenities (i.e., other businesses or social locations that affect traffic), etc
 
 
