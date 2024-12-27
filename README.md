@@ -24,15 +24,14 @@ Quite a bit of research has been conducted on optimal shop location. We would ex
 detailed and comprehensive models and data sets for their research and decision making. Here, we list some of the research 
 to get us started.
 
-1. DeepStore: An Interaction-Aware Wide&Deep Model for Store Site Recommendation With Attentional Spatial Embeddings: https://hal.science/hal-03363389/file/3447271.pdf
-2. Intelligent site selection for bricks-and-mortar stores: https://www.emerald.com/insight/content/doi/10.1108/mscra-03-2019-0010/full/pdf
+1. Optimal Retail Location: Empirical Methodology and Application to Practice: https://bakerretail.wharton.upenn.edu/wp-content/uploads/2017/01/Chloe-Kim_Optimizing-Retail-Locations-Using-an-Empirical-Model_SSRN.pdf
+2. DeepStore: An Interaction-Aware Wide&Deep Model for Store Site Recommendation With Attentional Spatial Embeddings: https://hal.science/hal-03363389/file/3447271.pdf
 3. Store Location Selection via Mining Search Query Logs of Baidu Maps: https://arxiv.org/pdf/1606.03662
 4. MetaStore: a task-adaptative meta-learning model for optimal store placement with multi-city knowledge transfer: https://hal.science/hal-03363389/file/3447271.pdf
 5. Applied Retail Location Models Using Spatial Interaction Tools: https://www.researchgate.net/profile/Morton-Okelly-2/publication/263389703_Applied_retail_location_models_using_spatial_interaction_tools/links/5413ac410cf2bb7347db266c/Applied-retail-location-models-using-spatial-interaction-tools.pdf
 6. Location and Agglomeration: The Distribution of Retail and Food Businesses in Dense Urban Environments: https://www.researchgate.net/profile/Andres-Sevtsuk/publication/280218425_Location_and_Agglomeration_The_Distribution_of_Retail_and_Food_Businesses_in_Dense_Urban_Environments/links/58c6a34b92851c0ccbff6c1e/Location-and-Agglomeration-The-Distribution-of-Retail-and-Food-Businesses-in-Dense-Urban-Environments.pdf
 7. AR2Net: An Attentive Neural Approach for Business Location Selection with Satellite Data and Urban Data: https://dl.acm.org/doi/abs/10.1145/3372406
 8. Identification of robust retailing location patterns with complex network approaches: https://link.springer.com/content/pdf/10.1007/s40747-021-00335-8.pdf
-
 
 # Data
 
