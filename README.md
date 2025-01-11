@@ -52,7 +52,9 @@ At minimum, we would need retailer and consumer data, as well as some location d
 The essential initial methodology is to look at this as a regression problem where we have the dependent variable as 
 as the optimal location coordinates (GPS, Geolocation) and the explanatory or control variables include relevant 
 radius demographics, income levels of potential customers, competitive retailer factors, target or expected revenue, 
-location amenities (i.e., other businesses or social locations that affect traffic), etc. Expectedly, machine learning would also 
+location amenities (i.e., other businesses or social locations that affect traffic), etc. However, given that 
+we would have sales data only for locations with relevant retail shops, it may be more fitting to run the regression model
+with Expected Sales as the dependent variable and it's relative location as one of the dependent variables. Expectedly, machine learning would also 
 help to model the complexity of the data and factors. 
 
 
