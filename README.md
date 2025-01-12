@@ -32,6 +32,7 @@ to get us started.
 6. Location and Agglomeration: The Distribution of Retail and Food Businesses in Dense Urban Environments: https://www.researchgate.net/profile/Andres-Sevtsuk/publication/280218425_Location_and_Agglomeration_The_Distribution_of_Retail_and_Food_Businesses_in_Dense_Urban_Environments/links/58c6a34b92851c0ccbff6c1e/Location-and-Agglomeration-The-Distribution-of-Retail-and-Food-Businesses-in-Dense-Urban-Environments.pdf
 7. AR2Net: An Attentive Neural Approach for Business Location Selection with Satellite Data and Urban Data: https://dl.acm.org/doi/abs/10.1145/3372406
 8. Identification of robust retailing location patterns with complex network approaches: https://link.springer.com/content/pdf/10.1007/s40747-021-00335-8.pdf
+9. KnowSite: Leveraging Urban Knowledge Graph for Site Selection: https://fi.ee.tsinghua.edu.cn/~dingjingtao/papers/KnowSite-Sigspatial23.pdf
 
 # Data
 
@@ -54,7 +55,7 @@ as the optimal location coordinates (GPS, Geolocation) and the explanatory or co
 radius demographics, income levels of potential customers, competitive retailer factors, target or expected revenue, 
 location amenities (i.e., other businesses or social locations that affect traffic), etc. However, given that 
 we would have sales data only for locations with relevant retail shops, it may be more fitting to run the regression model
-with Expected Sales as the dependent variable and it's relative location as one of the dependent variables. Expectedly, machine learning would also 
+with Expected Sales as the dependent variable and it's relative location as one of the dependent variables. '''polki9jijgjkuiiiiikkkklkkaijuucyuuuExpectedly, machine learning would also 
 help to model the complexity of the data and factors. 
 
 
