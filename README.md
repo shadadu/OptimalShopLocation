@@ -33,6 +33,7 @@ to get us started.
 7. AR2Net: An Attentive Neural Approach for Business Location Selection with Satellite Data and Urban Data: https://dl.acm.org/doi/abs/10.1145/3372406
 8. Identification of robust retailing location patterns with complex network approaches: https://link.springer.com/content/pdf/10.1007/s40747-021-00335-8.pdf
 9. KnowSite: Leveraging Urban Knowledge Graph for Site Selection: https://fi.ee.tsinghua.edu.cn/~dingjingtao/papers/KnowSite-Sigspatial23.pdf
+10. Geo-spotting: Mining Online Location-based Services for Optimal Retail Store Placement: https://arxiv.org/abs/1306.1704
 
 # Data
 
@@ -47,6 +48,13 @@ At minimum, we would need retailer and consumer data, as well as some location d
 7. Consumer Behavior and Shopping Habits Dataset: https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset
 8. AWS Retail, Location & Marketing Data: https://aws.amazon.com/marketplace/search/results?category=2d1c8868-2642-4741-af5d-9ced77da7024&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&filters=FULFILLMENT_OPTION_TYPE
 9. Data.gov Retail Food Stores: https://catalog.data.gov/dataset/retail-food-stores
+10. Intelligent Event data sample - Non attended events, Seattle: https://aws.amazon.com/marketplace/pp/prodview-xyzxww7esepcu?sr=0-20&ref_=beagle&applicationId=AWSMPContessa#overview
+11. B2bConnect™ - Business Firmographics (Demo/Sample): https://aws.amazon.com/marketplace/pp/prodview-vxwy2qp2qp7tm?sr=0-50&ref_=beagle&applicationId=AWSMPContessa#offers
+12. Free/Open Access AWS Retail, Location & Marketing Data: https://aws.amazon.com/marketplace/search/results?category=2d1c8868-2642-4741-af5d-9ced77da7024&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&CONTRACT_TYPE=OPEN_DATA_LICENSES&filters=FULFILLMENT_OPTION_TYPE%2CCONTRACT_TYPE
+13. AWS Market Place - Demand Intelligence - Global Intelligent Event Data API: https://aws.amazon.com/marketplace/pp/prodview-33rgkq2mboads?sr=0-26&ref_=beagle&applicationId=AWSMPContessa#overview
+14. AWS Market Place - Spending Power™ (Demo/Sample): https://aws.amazon.com/marketplace/pp/prodview-hgng3yvvveg46?sr=0-43&ref_=beagle&applicationId=AWSMPContessa#offers
+15. Quarterly Financial Report: Large U.S. Retail Trade Corporations, Third Quarter 2024: https://www.census.gov/econ/qfr/retail/current/index.html
+16. CapitalOne Shopping Retail Statistics: https://capitaloneshopping.com/research/retail-statistics/
 
 # Modeling
 
@@ -55,7 +63,7 @@ as the optimal location coordinates (GPS, Geolocation) and the explanatory or co
 radius demographics, income levels of potential customers, competitive retailer factors, target or expected revenue, 
 location amenities (i.e., other businesses or social locations that affect traffic), etc. However, given that 
 we would have sales data only for locations with relevant retail shops, it may be more fitting to run the regression model
-with Expected Sales as the dependent variable and it's relative location as one of the dependent variables. '''polki9jijgjkuiiiiikkkklkkaijuucyuuuExpectedly, machine learning would also 
+with Expected Sales as the dependent variable and it's relative location as one of the dependent variables. Expectedly, machine learning would also 
 help to model the complexity of the data and factors. 
 
 Essentially, we would need sales data of retailer shop at a location, incomes and other demographics
