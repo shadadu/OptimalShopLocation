@@ -55,6 +55,8 @@ At minimum, we would need retailer and consumer data, as well as some location d
 14. AWS Market Place - Spending Power™ (Demo/Sample): https://aws.amazon.com/marketplace/pp/prodview-hgng3yvvveg46?sr=0-43&ref_=beagle&applicationId=AWSMPContessa#offers
 15. Quarterly Financial Report: Large U.S. Retail Trade Corporations, Third Quarter 2024: https://www.census.gov/econ/qfr/retail/current/index.html
 16. CapitalOne Shopping Retail Statistics: https://capitaloneshopping.com/research/retail-statistics/
+17. Sales Tax Collections Data | USA | 2019 - 2023: https://aws.amazon.com/marketplace/pp/prodview-wqbcwel53bwbg?sr=0-12&ref_=beagle&applicationId=AWSMPContessa#offers
+18. Business Data US / 55M Businesses in the US ( sample): https://aws.amazon.com/marketplace/pp/prodview-ux4lwqysgqshg?sr=0-22&ref_=beagle&applicationId=AWSMPContessa#dataSets
 
 # Modeling
 
